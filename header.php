@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>WorldWideWebPublishingCompany</title>
-    <meta name="description" content="Digital Art Book Publishing Company" />
+    <meta name="description" content="Digital Publishing Company" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Fonts: Lato / http://www.latofonts.com/ -->
