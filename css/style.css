@@ -11,21 +11,18 @@ html, html a {
   -webkit-font-smoothing: antialiased !important;
 }
 
+ul {
+  padding-bottom: 15px;
+}
+
 section {
   width: 80%;
   margin: 0 auto;
-  padding: 5% 0;
-}
-
-#header {
-  position: fixed;
-  background-color: red;
-  z-index: 1000;
 }
 
 .column {
   text-align: center;
-
+  height: 200px;
 }
 
 .logo {
